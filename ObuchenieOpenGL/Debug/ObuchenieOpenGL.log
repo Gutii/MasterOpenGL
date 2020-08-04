@@ -1,2 +1,9 @@
-﻿  Source.cpp
-  ObuchenieOpenGL.vcxproj -> C:\Users\vanta\Downloads\ObuchenieOpenGL\ObuchenieOpenGL\Debug\ObuchenieOpenGL.exe
+﻿  Controls.cpp
+D:\GitHUB\MasterOpenGL\ObuchenieOpenGL\Controls.cpp(136,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Shader.cpp
+  ObjectLoader.cpp
+  Source.cpp
+  TextureLoad.cpp
+  vboinexer.cpp
+  Создание кода...
+  ObuchenieOpenGL.vcxproj -> D:\GitHUB\MasterOpenGL\Debug\ObuchenieOpenGL.exe
